@@ -1,2 +1,6 @@
 agregar texto como prueba 1
+<<<<<<< HEAD
 algo
+=======
+mensaje prueba
+>>>>>>> upstream/main
