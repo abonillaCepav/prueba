@@ -1,3 +1,7 @@
 agregar texto como prueba 1
+<<<<<<< HEAD
+mensaje prueba jb
+=======
 mensaje prueba
-lenguaje programacion
+>>>>>>> main
+mensaje prueba jb2
