@@ -1,7 +1,3 @@
 agregar texto como prueba 1
-<<<<<<< HEAD
-mensaje prueba jb
-=======
-mensaje prueba
->>>>>>> main
 mensaje prueba jb2
+prueba
